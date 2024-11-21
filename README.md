@@ -1,3 +1,6 @@
-# TicTacToe WAOUUHHHH!
+# TicTacToe youyoup!!! 🎉
 
 [TicTacToe game](https://hugo0o3.github.io/TicTacToe/)
+
+
+
